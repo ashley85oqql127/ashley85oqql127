@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm ashley85oqql127
 
-<!--
-**ashley85oqql127/ashley85oqql127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 🏊 🏊 🎮 Excited about data science 🎯 🏊 🏊 🎮
 
-Here are some ideas to get you started:
+## About Me
+🏹 🎹 Ready to work on artificial intelligence 🏹 🎹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🏑 🏒 Curious about testing 🏑 🏒
+
+### Fun Facts
+🎯 🎮 🏸 Innovating in the field of desktop development 🎯 🎮 🏸
+
+---
+🥊 🎬 🎭 🚵 🎳 Thanks for visiting my profile! 🏓 🏊 🏸 🥊 🎨
